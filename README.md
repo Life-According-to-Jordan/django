@@ -8,6 +8,8 @@
 
 3. Third, in your preferences in Atom, you'll want to install "Platformio Ide Terminal" v.2.8.1. Once you have this installed, in the packages section of Atom, you can add terminal to your text editor transforming it into an IDE.
 
+![image](https://github.com/Life-According-to-Jordan/django/blob/master/misc/atom_preferences.png)
+
 4. Then, once you have all of the previous packages downloaded and set up, you'll want to download Django. Simply run "pip install django" in your command line and your system should download django. 
 
 5. In the terminal inside atom, you can run python manage.py runserver
